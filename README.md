@@ -18,4 +18,4 @@ cargo build --release
 ```
 
 运行生成的main.exe即可实现cs上线
-可以在360和defender下免杀
+可以在defender下免杀
